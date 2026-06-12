@@ -8,6 +8,8 @@ Hosted inside [Boostype](https://boostype.com)
 
 ---
 
+![Logo](shiftman512.png)
+
 ## Install
 
 Copy and paste the following code inside your terminal:
